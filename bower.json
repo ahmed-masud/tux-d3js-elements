@@ -1,0 +1,27 @@
+{
+  "name": "tux-d3-elements",
+  "homepage": "https://github.com/tux-d3/tux-d3-elements",
+  "authors": [
+    "Ahmed Masud <ahmed.masud@trustifier.com>"
+  ],
+  "description": "A collection of elements for D3JS",
+  "main": "tux-d3-elements.html",
+  "moduleType": [],
+  "keywords": [
+    "webcomponents",
+    "tux",
+    "tux-d3",
+    "trustifier",
+    "d3js",
+    "d3.js"
+  ],
+  "license": "BSD-3-Clause",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
