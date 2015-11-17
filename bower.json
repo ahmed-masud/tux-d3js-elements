@@ -23,5 +23,9 @@
     "test",
     "tests"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "d3-data-source": "tux-d3/d3-data-source",
+    "d3-bar-graph": "tux-d3/d3-bar-graph",
+    "d3-chart": "tux-d3/d3-chart"
+  }
 }
